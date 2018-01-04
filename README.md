@@ -1,2 +1,4 @@
-# fluffy-kittens
-Demo Repo
+# Fluffy Kittens
+
+This is for a demo.
+
